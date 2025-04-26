@@ -19,7 +19,7 @@ const processedTiktokIds = new Set();
 const setupBrowser = async () => {
   try {
     const browser = await puppeteer.connect({
-      browserWSEndpoint: 'ws://127.0.0.1:9222/devtools/browser/ff476757-f5fd-40a7-95e1-daa45812bd4d',
+      browserWSEndpoint: 'ws://127.0.0.1:9222/devtools/browser/08f25029-10ab-44fb-bd1a-705c827407a3',
       defaultViewport: null
     });
     return browser;
@@ -346,7 +346,7 @@ const supabase = createClient(
 );
 
 const main = async () => {
-  const searchTerms = ["memecoin", "solana", "crypto", "pumpfun", 'trading', "degen", 'crypto%20signals'];
+  const searchTerms = ["memecoin", "solana", "crypto", "pumpfun", 'trading', "degen%20trading", 'crypto%20signals'];
 
   const hashtagTerms = [];
 

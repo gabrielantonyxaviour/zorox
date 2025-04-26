@@ -8,29 +8,6 @@ const supabase = createClient(
   process.env.SUPABASE_KEY
 );
 
-function determineAddressType(address) {
-  const patterns = {
-    solana: /^[1-9A-HJ-NP-Za-km-z]{32,44}$/, // Solana: Base58 format, 32-44 chars
-    evm: /^0x[0-9a-fA-F]{40}$/, // EVM: Hex format, starts with 0x, 42 chars total
-    sui: /^0x[0-9a-fA-F]{64}$/ // SUI: Hex format, starts with 0x, 66 chars total
-  };
-
-  try {
-    if (patterns.solana.test(address))
-      return 'solana'
-
-    if (patterns.evm.test(address))
-      return 'evm'
-
-    if (patterns.sui.test(address))
-      return 'sui'
-
-    return 'na';
-  } catch (error) {
-    return 'na'
-  }
-}
-
 async function fetchTickerAddress(keyword) {
   const options = {
     method: 'GET',
@@ -206,53 +183,53 @@ function analyzeTokenHealth(tokenData) {
 async function main() {
   // Fetch dead filtered latest mentions from supabase.
 
-  const mentions = await getTrendingMentions();
-  // const mentions = await getAggregatedMentions();
+  // const mentions = await getTrendingMentions();
+  const mentions = await getAggregatedMentions();
   console.log(mentions)
-  const tokens = await Promise.all(
-    mentions.map(async mention => {
-      const token = await fetchTickerAddress(mention.mention);
-      if (token === null) {
-        return null;
-      }
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      const tokenData = await fetchTokenData(token);
-      if (tokenData === null) {
-        return null;
-      }
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      return tokenData;
-    })
-  ).then(results => results.filter(result => result !== null));
+  // const tokens = await Promise.all(
+  //   mentions.map(async mention => {
+  //     const token = await fetchTickerAddress(mention.mention);
+  //     if (token === null) {
+  //       return null;
+  //     }
+  //     await new Promise(resolve => setTimeout(resolve, 1000));
+  //     const tokenData = await fetchTokenData(token);
+  //     if (tokenData === null) {
+  //       return null;
+  //     }
+  //     await new Promise(resolve => setTimeout(resolve, 1000));
+  //     return tokenData;
+  //   })
+  // ).then(results => results.filter(result => result !== null));
 
 
-  console.log(tokens)
-  const nonDeadTokens = tokens.filter(token => !token.isDead);
+  // console.log(tokens)
+  // const nonDeadTokens = tokens.filter(token => !token.isDead);
 
-  if (nonDeadTokens.length == 0) {
-    console.log("No Trending Tickers in Tiktok at the moment.")
-  } else {
-    const data = formatTokensForAI(nonDeadTokens)
-    console.log(data)
-  }
-  const postedAt = new Date()
-  const pushData = tokens.map(token => {
-    return {
-      name: token.symbol,
-      posted_at: token.isDead ? new Date(0) : postedAt,
-      is_dead: token.isDead,
-    }
-  })
+  // if (nonDeadTokens.length == 0) {
+  //   console.log("No Trending Tickers in Tiktok at the moment.")
+  // } else {
+  //   const data = formatTokensForAI(nonDeadTokens)
+  //   console.log(data)
+  // }
+  // const postedAt = new Date()
+  // const pushData = tokens.map(token => {
+  //   return {
+  //     name: token.symbol,
+  //     posted_at: token.isDead ? new Date(0) : postedAt,
+  //     is_dead: token.isDead,
+  //   }
+  // })
 
-  const { error } = await supabase
-    .from('tickers')
-    .upsert(pushData).select()
+  // const { error } = await supabase
+  //   .from('tickers')
+  //   .upsert(pushData).select()
 
-  if (error) {
-    console.error('Error upserting data into Supabase:', error);
-  } else {
-    console.log('Data successfully upserted into Supabase');
-  }
+  // if (error) {
+  //   console.error('Error upserting data into Supabase:', error);
+  // } else {
+  //   console.log('Data successfully upserted into Supabase');
+  // }
 
 }
 

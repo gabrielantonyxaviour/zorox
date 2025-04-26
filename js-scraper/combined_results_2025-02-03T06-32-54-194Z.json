@@ -1,0 +1,4688 @@
+{
+  "extraction_time": "2025-02-03T06:32:54.195Z",
+  "total_searches": 6,
+  "results": [
+    {
+      "search": "memecoin",
+      "total_videos": 2,
+      "videos": [
+        {
+          "posted_time": "55m ago",
+          "posted_timestamp": 1738560781.122,
+          "video_url": "https://www.tiktok.com/@btcbandit420onspotify/video/7467061216062541087",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23da627cf237d417cdfc63a7abbedcd9~c5_100x100.jpeg?lk3s=a5d48078&nonce=14685&refresh_token=876de9c86eb529ba077bfd005b7ec17e&x-expires=1738735200&x-signature=TIdCQV0ng4s4kAOCLZ31SU%2FdlLM%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#solana",
+            "#memecoins",
+            "#crypto",
+            "#bitcoin",
+            "#ethereum"
+          ],
+          "author": "btcbandit420onspotify",
+          "views": "36",
+          "extracted_time": "2025-02-03T06:28:01.131Z",
+          "comments": {
+            "count": 1,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "33m ago",
+          "posted_timestamp": 1738562104.616,
+          "video_url": "https://www.tiktok.com/@marilynl69/video/7467067205369351432",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/161eb7f13b409155a23af962651a760c.jpeg?lk3s=a5d48078&nonce=1534&refresh_token=d4e3de81284a480bbed4bec5612996a4&x-expires=1738735200&x-signature=FK7uQMGdkZ4D4qOlW2G59Bh3BNU%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#memecoins",
+            "#crypto",
+            "#tradingmemecoins",
+            "#trading"
+          ],
+          "author": "marilynl69",
+          "views": "1052",
+          "extracted_time": "2025-02-03T06:28:04.630Z",
+          "comments": {
+            "count": 27,
+            "mentions": {
+              "WILD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738562665
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "crypto",
+      "total_videos": 10,
+      "videos": [
+        {
+          "posted_time": "38m ago",
+          "posted_timestamp": 1738561828.059,
+          "video_url": "https://www.tiktok.com/@jonling5000/video/7467065945232641323",
+          "thumbnail_url": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oAGgRkePQCfQtIIySejWIKgHzpVEKAqyCiAKLP?lk3s=b59d6b55&x-expires=1738735200&x-signature=kZhuj%2FEqROC0%2FmAt7yRVgjqAu2U%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#xrp",
+            "#ethereum",
+            "#bitcoin",
+            "#xlm"
+          ],
+          "author": "jonling5000",
+          "views": "35",
+          "extracted_time": "2025-02-03T06:28:28.073Z",
+          "comments": {
+            "count": 3,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "2h ago",
+          "posted_timestamp": 1738556911.533,
+          "video_url": "https://www.tiktok.com/@cryptomasun/video/7467039051833527558",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/oIkRwoEGSR9N0gJHEz91QLQEDfAnFBBfVBPnDI?lk3s=b59d6b55&x-expires=1738735200&x-signature=D6%2BgAA1%2BZ4pvdJNKaPkPrItDpow%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [],
+          "author": "cryptomasun",
+          "views": "524",
+          "extracted_time": "2025-02-03T06:28:31.543Z",
+          "comments": {
+            "count": 99,
+            "mentions": {
+              "HBAR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738557659
+              },
+              "MELANIA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738556865
+              },
+              "ECB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738556094
+              },
+              "TRUMP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560458
+              },
+              "DUMP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560458
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2h ago",
+          "posted_timestamp": 1738556915.27,
+          "video_url": "https://www.tiktok.com/@dajulrey/video/7467034550187691271",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3c14c29bc478e0d5c61ceedc238c89af.jpeg?lk3s=a5d48078&nonce=96248&refresh_token=0430af34c2d7705ce4dc50a0ba6d4cd9&x-expires=1738735200&x-signature=AU7NOPHTrttxuavswST5Ec59nqA%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto"
+          ],
+          "author": "dajulrey",
+          "views": "116",
+          "extracted_time": "2025-02-03T06:28:35.283Z",
+          "comments": {
+            "count": 16,
+            "mentions": {
+              "USA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738562272
+              },
+              "TWAR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738562272
+              },
+              "9x4dig7YmXJYacXeQC4AMqrspxDhVsyWjYF77LLH1nbS": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738562272
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1h ago",
+          "posted_timestamp": 1738560518.298,
+          "video_url": "https://www.tiktok.com/@cryptomalaysia/video/7467049811817008392",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/dc9d5b03b365dc650c19c47edbf088c4~c5_100x100.jpeg?lk3s=a5d48078&nonce=5558&refresh_token=2c52e548b7ab2adb0d7dc7a1204ae353&x-expires=1738735200&x-signature=C%2FlygZMByyAfgYvlkKfWdXs1Bfc%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto",
+            "#buythedip",
+            "#cryptotrader",
+            "#cryptoinvesting",
+            "#cryptoinvestor",
+            "#cryptomemes",
+            "#cryptocurrency",
+            "#cryptomarket",
+            "#cryptolife",
+            "#cryptocrash",
+            "#foryou",
+            "#fyp"
+          ],
+          "author": "cryptomalaysia",
+          "views": "91",
+          "extracted_time": "2025-02-03T06:28:38.307Z",
+          "comments": {
+            "count": 5,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "17m ago",
+          "posted_timestamp": 1738563098.901,
+          "video_url": "https://www.tiktok.com/@haterzlovebro/video/7467071498344221959",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fbc6f52cffd953e15d8c108a13ce9bac.jpeg?lk3s=a5d48078&nonce=5203&refresh_token=c5683eef8b0873c33056af1dd9c34122&x-expires=1738735200&x-signature=%2BM9DxQwkgxhLqUYzxHylgmi0YrQ%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#trading",
+            "#crypto",
+            "#cryptocurrency",
+            "#tradingcrypto"
+          ],
+          "author": "haterzlovebro",
+          "views": "18",
+          "extracted_time": "2025-02-03T06:28:38.917Z",
+          "comments": {
+            "count": 2,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "8m ago",
+          "posted_timestamp": 1738563639.452,
+          "video_url": "https://www.tiktok.com/@barenakedcrypto/video/7467073766657412357",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1074f6cb5f2bbf12b0d005f4fff547f2~c5_100x100.jpeg?lk3s=a5d48078&nonce=64173&refresh_token=da0215319e101ebc5c652dc1ab485bae&x-expires=1738735200&x-signature=5mVwkMzYYpU0oMOpWtqbKGA%2FkpM%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto",
+            "#cryptoinvesting",
+            "#cryptocrash",
+            "#cryptotrading",
+            "#bitcoin",
+            "#bitcoinnews",
+            "#solana",
+            "#ethereum"
+          ],
+          "author": "barenakedcrypto",
+          "views": "59",
+          "extracted_time": "2025-02-03T06:28:39.468Z",
+          "comments": {
+            "count": 9,
+            "mentions": {
+              "LA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738563867
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "20m ago",
+          "posted_timestamp": 1738562922.544,
+          "video_url": "https://www.tiktok.com/@haterzlovebro/video/7467070810067373319",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oIZFVMgOiEwxnMinAzAVIXEgf1EKcBBUfDlRoF?lk3s=b59d6b55&x-expires=1738735200&x-signature=qYjKnFLE2EgZcUBhfzbLVh5KDyw%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#trading",
+            "#crypto",
+            "#cryptocurrency",
+            "#tradingcrypto"
+          ],
+          "author": "haterzlovebro",
+          "views": "15",
+          "extracted_time": "2025-02-03T06:28:42.555Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "11h ago",
+          "posted_timestamp": 1738524525.909,
+          "video_url": "https://www.tiktok.com/@studentloanmillionaire/video/7466901944003497249",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/163b066ae40ef7d868dfb16a60f9fb46~c5_100x100.jpeg?lk3s=a5d48078&nonce=18630&refresh_token=9da3f517cbdd32bda08effa6b20cd45c&x-expires=1738735200&x-signature=%2BZFCRA9E5lCPKqXcRixZwO3TPH4%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto",
+            "#cryptocurrency",
+            "#bitcoin",
+            "#blockchain",
+            "#ethereum",
+            "#btc",
+            "#trading",
+            "#cryptonews",
+            "#cryptotrading",
+            "#nft",
+            "#forex",
+            "#money",
+            "#eth",
+            "#investing",
+            "#investment",
+            "#cryptocurrencies",
+            "#bitcoins",
+            "#binance",
+            "#bitcoinnews",
+            "#invest",
+            "#bitcoinmining",
+            "#business",
+            "#trader",
+            "#entrepreneur",
+            "#forextrader",
+            "#nfts",
+            "#finance",
+            "#stocks",
+            "#dogecoin",
+            "#cryptoworld"
+          ],
+          "author": "studentloanmillionaire",
+          "views": "70",
+          "extracted_time": "2025-02-03T06:28:45.923Z",
+          "comments": {
+            "count": 28,
+            "mentions": {
+              "CAIZ": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738544756
+              },
+              "GIFTS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738536069
+              },
+              "RISK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "FORM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "GOLD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "PROPERTY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "SILVER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "FTSE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "ALL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "THESE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              },
+              "UP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738560885
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "3h ago",
+          "posted_timestamp": 1738553330.101,
+          "video_url": "https://www.tiktok.com/@john_fabiola/video/7467015466058255621",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/oY5CAelEGCqPLehIrgIKF7IwQCSQ1esglWjSTA?lk3s=b59d6b55&x-expires=1738735200&x-signature=us7fLFDLx0iIiwHuPuAuiQWaG7I%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#criptomonedas",
+            "#bitcoin",
+            "#thesatoshimania",
+            "#cripto",
+            "#crypto"
+          ],
+          "author": "john_fabiola",
+          "views": "0",
+          "extracted_time": "2025-02-03T06:28:50.109Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "14m ago",
+          "posted_timestamp": 1738563290.737,
+          "video_url": "https://www.tiktok.com/@923funnyvideo/video/7467072048280522014",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/34b68576c78220184e6753b859560202~c5_100x100.jpeg?lk3s=a5d48078&nonce=53513&refresh_token=5bff75f44d84628140df34a73d9ce7f2&x-expires=1738735200&x-signature=Pl6zMyWlJb3S1ThGjvfs6lV74cI%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#ufc"
+          ],
+          "author": "923funnyvideo",
+          "views": "62",
+          "extracted_time": "2025-02-03T06:28:50.751Z",
+          "comments": {
+            "count": 1,
+            "mentions": {
+              "AJAJAJAHA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738563424
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "pumpfun",
+      "total_videos": 6,
+      "videos": [
+        {
+          "posted_time": "2024-11-26",
+          "posted_timestamp": 1738564142.338,
+          "video_url": "https://www.tiktok.com/@9jacoder/video/7441645484659313975",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ed35c7271c9fb447ea231aa588061dc5~c5_100x100.jpeg?lk3s=a5d48078&nonce=60722&refresh_token=d46db67ef16fc4a89a597f9d9ca76663&x-expires=1738735200&x-signature=jXmi3QrV55nosToOMa3v4ZWok7Q%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#pumpfun",
+            "#crypto"
+          ],
+          "author": "9jacoder",
+          "views": "25",
+          "extracted_time": "2025-02-03T06:29:02.349Z",
+          "comments": {
+            "count": 3,
+            "mentions": {
+              "9vawAnakzbv1B1WnorLxFDPg2LSA1kH5om3ZNRa1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737127357
+              },
+              "https://pump.fun/coin/APHFx7Mq3cjYwYxniR4PL5yA5D97eQ1C2hL4qdJtdwhZ": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736292238
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1-4",
+          "posted_timestamp": 1738564148.287,
+          "video_url": "https://www.tiktok.com/@pump.fun/video/7456086842388040992",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/oszRE53CABiBSoURDVdAfi44thn3sImFIKvyGB?lk3s=b59d6b55&x-expires=1738735200&x-signature=xPnPGMQkC46d1zD22DKK8KjXvsk%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#tradingtiktok",
+            "#parlay",
+            "#meme",
+            "#memes",
+            "#memecoins",
+            "#solana",
+            "#pumpfun",
+            "#trenches",
+            "#degen"
+          ],
+          "author": "pump.fun",
+          "views": "340",
+          "extracted_time": "2025-02-03T06:29:08.296Z",
+          "comments": {
+            "count": 40,
+            "mentions": {
+              "DOGC": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736026307
+              },
+              "XERAI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736842128
+              },
+              "HOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738072997
+              },
+              "GEKKO": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737046614
+              },
+              "suiyan": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736679172
+              },
+              "https://pump.fun/coin/APHFx7Mq3cjYwYxniR4PL5yA5D97eQ1C2hL4qdJtdwhZ": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736292136
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2024-9-11",
+          "posted_timestamp": 1738564150.183,
+          "video_url": "https://www.tiktok.com/@moneyonmemes/video/7413159645889547562",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93495a35faf8cade5118a07eb434d3b1~c5_100x100.jpeg?lk3s=a5d48078&nonce=97541&refresh_token=96b9b6e384ee52ac97e1e96bf515a936&x-expires=1738735200&x-signature=Q4NV%2FF7XTmvjt031nZihLWfvp%2BM%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#solana",
+            "#gotmotion",
+            "#memecoin",
+            "#pumpfun",
+            "#ethereum",
+            "#meme"
+          ],
+          "author": "moneyonmemes",
+          "views": "108",
+          "extracted_time": "2025-02-03T06:29:10.196Z",
+          "comments": {
+            "count": 31,
+            "mentions": {
+              "WORK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732987046
+              },
+              "chili": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732987046
+              },
+              "GEKKO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737411247
+              },
+              "PENALDO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "MAKE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "US": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "RICH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "UR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "ONLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735842641
+              },
+              "crackkid": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732250927
+              },
+              "SHEEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733100275
+              },
+              "https://pump.fun/coin/63HbHyQ6U3ozsQ2CcZp3KaCgVoPfkkieS3o33bKApump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1734867622
+              },
+              "5wU3DL4ryhbW3cxy118JovGSKAf7qbcmysmbjyg7pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737609800
+              },
+              "HOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738072955
+              },
+              "https://pump.fun/coin/BcyE5829YcArTFd6L5ELtNrj9gUbaSGJg1Wu5G6Zpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1734862730
+              },
+              "eab5z": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735135506
+              },
+              "MC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732251099
+              },
+              "ATM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732251099
+              },
+              "ROT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736012119
+              },
+              "TOP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736012119
+              },
+              "GEM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736012119
+              },
+              "9vawAnakzbv1B1WnorLxFDPg2LSA1kH5om3ZNRa1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737126303
+              },
+              "MONKEY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126303
+              },
+              "MAFIA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126303
+              },
+              "https://pump.fun/H6gZTFrDce2C4GChGw7AGH36KzQsjeSQyNhfXr7hpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733676815
+              },
+              "MOBY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737906618
+              },
+              "https://dexscreener.com/solana/4UynDo9yYWLZbp6fvD9XSUeVu78DeEKQd6Vgyau6zDf2": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735141093
+              },
+              "GPT45": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732255590
+              },
+              "C8SSKGgqTxwv146WsSr2pbcEitQTPeSTN83sqSmFpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732255590
+              },
+              "6mTEUrmyRGoRmk9K3unqZYd69dXCuWj3ZCi4ktfEpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1734868923
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1d ago",
+          "posted_timestamp": 1738477751.393,
+          "video_url": "https://www.tiktok.com/@vin_crypto/video/7466540679427034374",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a0c58a6bdd5f3faec66e56e12acbf4fa~c5_100x100.jpeg?lk3s=a5d48078&nonce=40241&refresh_token=30f02421bd8c65a520f1eb27f4110494&x-expires=1738735200&x-signature=DrF9QD1YRm294LHnEEj3OrGBi%2Fk%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#fyp",
+            "#memecoins",
+            "#crypto",
+            "#solana",
+            "#parlay"
+          ],
+          "author": "vin_crypto",
+          "views": "2",
+          "extracted_time": "2025-02-03T06:29:11.412Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "2024-10-27",
+          "posted_timestamp": 1738564151.913,
+          "video_url": "https://www.tiktok.com/@trench_wolf/video/7430161508711107873",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab903d11a1c4487663066843cdd5be05~c5_100x100.jpeg?lk3s=a5d48078&nonce=37766&refresh_token=013bd2da8b6fc0fa1e24dc9fc1e72fb9&x-expires=1738735200&x-signature=Ira5lcE0FHFA%2FC%2FZLXHom4sITa0%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#solana",
+            "#memecoin",
+            "#mindset",
+            "#oldmoney",
+            "#luxurylifestyle",
+            "#degen",
+            "#pumpdotfun"
+          ],
+          "author": "trench_wolf",
+          "views": "12.4K",
+          "extracted_time": "2025-02-03T06:29:11.930Z",
+          "comments": {
+            "count": 300,
+            "mentions": {
+              "DHC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734038863
+              },
+              "DEX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734038863
+              },
+              "SUNFLOWER": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1736354387
+              },
+              "DNA": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732376398
+              },
+              "MAO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732500414
+              },
+              "ZECOIN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732500414
+              },
+              "delusion": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733677567
+              },
+              "roasted": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733064652
+              },
+              "BIO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735615330
+              },
+              "GOVNOR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738336644
+              },
+              "INDEED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738447521
+              },
+              "VIBE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732909379
+              },
+              "CAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732909379
+              },
+              "LOOT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733316195
+              },
+              "RIZZTRMP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733688110
+              },
+              "9Sbm5abHZ7YiZSx1drj4VaE6pCyLVnPsnHXyPvxL7H19": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732655890
+              },
+              "TRUMP": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732356617
+              },
+              "SHEEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733100259
+              },
+              "DEENO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733965935
+              },
+              "SPEPE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733427951
+              },
+              "2s9iY6PgAHEpmNgxkvXudWUshnyPkFJV56qUqyqpSrd8": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733408538
+              },
+              "HUZZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732907345
+              },
+              "E3f18voKuqhnWhXpW7se82LD666jGk1qYgHc3BXtpump?referralId=7d66umttarr": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732907345
+              },
+              "BUBI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732723979
+              },
+              "HGIVING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732546319
+              },
+              "TRENP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732376565
+              },
+              "PUMPING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732376565
+              },
+              "CHILLN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732303019
+              },
+              "BECOME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732303019
+              },
+              "MadElf": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733069198
+              },
+              "BIGGER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732310721
+              },
+              "THAN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732310721
+              },
+              "CHILL": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732356617
+              },
+              "GUY": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732481431
+              },
+              "kitcat": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1732601267
+              },
+              "F99qZ7waAfd5WyPAxvqBYQ2ANWeyWL5mFxhuXgJ2Hmm8": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738102177
+              },
+              "HOG": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1738149809
+              },
+              "RIZZCEMBER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732740740
+              },
+              "GOBBLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732740740
+              },
+              "CHILLFLIX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732740740
+              },
+              "GRINCH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734370835
+              },
+              "GEKKO": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736955434
+              },
+              "MC": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732250810
+              },
+              "CA:3tNLtApxNkNXx6RDw9cGNcYJ96tg8VeriMHfunGhghcn": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733301085
+              },
+              "SEARCH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "MONEY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "STRONG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "COMMUNITY": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "SEE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "SOON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "VALUTE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "FOLLOW": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "BY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737521965
+              },
+              "rizzmas": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733917531
+              },
+              "GRANEL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737651168
+              },
+              "POLTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737651168
+              },
+              "YRUGAY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734457170
+              },
+              "WOFF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735951400
+              },
+              "waa": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735131963
+              },
+              "JURASSIC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735305724
+              },
+              "PISSNUKE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "WERE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "TAKING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "OVER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "TIKTOK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735256212
+              },
+              "LOOK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738149809
+              },
+              "SB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735317642
+              },
+              "Surebuddy": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735317642
+              },
+              "CTC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735146441
+              },
+              "CoMusk": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738538523
+              },
+              "CL5ibtkM6v1zkUVihe8TtoxwD1e2U5tzMGqEJB3jpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732737454
+              },
+              "NBWAVY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737233871
+              },
+              "CC": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1734617407
+              },
+              "ATM": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1732250810
+              },
+              "PMOLORD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734427392
+              },
+              "VERI": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737203901
+              },
+              "PNY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734465338
+              },
+              "PM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736248884
+              },
+              "FEETCOIN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "DONT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "DARE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "MISS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "OUT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "ONE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "pump": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "memecoin": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "crypto": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "trending": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736371116
+              },
+              "9vawAnakzbv1B1WnorLxFDPg2LSA1kH5om3ZNRa1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737126569
+              },
+              "MONKEY": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732821560
+              },
+              "MAFIA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126569
+              },
+              "4yjmyHScdsuxpaez8jBAw1TF87p2Zz92KdxNTYdYAg8L": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735577267
+              },
+              "78ra87vqn6aHZjjPgakA5c5C44bWZrnhehfwLCKwpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737199944
+              },
+              "zxa": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735737399
+              },
+              "Rizzmas": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732595240
+              },
+              "WAVYDUMPS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737203901
+              },
+              "https://dexscreener.com/solana/3Gh3WbjWgMwNS7r16XrLTAQQgxqCnVYtpTg4y5sMRQEY": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738103998
+              },
+              "https://pump.fun/coin/CLqyAHJjyuGcqge7fBLjWqnqkwjQ9CtEH5vB3bAMpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732821613
+              },
+              "6eRLszetjVh3ixYanWNYEF4mWMQpydLPx5W7XEpj3U5A": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733034357
+              },
+              "8Jzr9xiQrh2XpGZvoab9ymaTRRYRnrnZZMpvCSg5pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738403682
+              },
+              "https://pump.fun/H6gZTFrDce2C4GChGw7AGH36KzQsjeSQyNhfXr7hpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733676825
+              },
+              "MOONING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733932646
+              },
+              "TONIGHT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733932646
+              },
+              "KpECzUB2AFnT3xTh29fD3yDtBrnm1q1WyfF64q1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733932646
+              },
+              "PUTIN": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1734305022
+              },
+              "H86fHHGa41tpPFF1DwSxYaDmPLEEWMSbtUNag7CjBnop": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735135505
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735414931
+              },
+              "8ERMpPc5K5xeHVvvDRXQf56kDq26K2XrHATKjEZupump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735493168
+              },
+              "FANTA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732543983
+              },
+              "RELESAED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732543983
+              },
+              "PHOTON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732543983
+              },
+              "!!4zRdyq9ku4c5vkUxmbiL1cr7dBktRRYS1HGUKUaMpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732543983
+              },
+              "CGbpNB8KdN1m7mekbq1zkNhNECvG3qRRPsFVZ8e9pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738422689
+              },
+              "NEXT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734305022
+              },
+              "UP": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "EBV4abYhbarVxkEECCqGy5KFoH7TGxWEm4xUMD3opump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733536993
+              },
+              "WITH": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732763066
+              },
+              "GrPQrxVZkMXt5v9q5dQLypoE7mAb73EtbgHiP2n2pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732821560
+              },
+              "BULLSANTA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732763066
+              },
+              "LIQUIDITY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732763066
+              },
+              "JOLLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732481431
+              },
+              "GOVERNMENT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732356617
+              },
+              "PUPSI": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1732308653
+              },
+              "https://pump.fun/coin/FTJRX7keJubZq7KWU95fuQKvDe51MvQFqg7T1EXnpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732303771
+              },
+              "BOYS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "CHILLFAM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "FUCKING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "AHH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "LETS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "KEEP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "RUNNING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              },
+              "THESE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732233783
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1-14",
+          "posted_timestamp": 1738564167.743,
+          "video_url": "https://www.tiktok.com/@milkytradex/video/7459555012126018821",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c97041e490d13b05decba1097095934~c5_100x100.jpeg?lk3s=a5d48078&nonce=48546&refresh_token=fada9b9397e82befa429e454bf47b53c&x-expires=1738735200&x-signature=%2BZqzYCVfkwlq4BAUCQaxhhsVJoY%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#pengu",
+            "#crypto",
+            "#solana",
+            "#memecoins",
+            "#dexscreener",
+            "#pumpfun"
+          ],
+          "author": "milkytradex",
+          "views": "86",
+          "extracted_time": "2025-02-03T06:29:27.760Z",
+          "comments": {
+            "count": 16,
+            "mentions": {
+              "PMOLORD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737467366
+              },
+              "VERIFIED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737467366
+              },
+              "TELE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737467366
+              },
+              "GEKKO": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736848121
+              },
+              "ROT": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737398633
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736934616
+              },
+              "RIZO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736821108
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "trading",
+      "total_videos": 5,
+      "videos": [
+        {
+          "posted_time": "1-15",
+          "posted_timestamp": 1738564179.653,
+          "video_url": "https://www.tiktok.com/@marilynl69/video/7460186629806771474",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oQJi7BnIEtifAT5vCw3HQqzE6KINwAGViIPACW?lk3s=b59d6b55&x-expires=1738735200&x-signature=PBxe3NR7A3%2BRgjF%2FAB4SKVDqJP0%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#memecoins",
+            "#crypto"
+          ],
+          "author": "marilynl69",
+          "views": "2162",
+          "extracted_time": "2025-02-03T06:29:39.680Z",
+          "comments": {
+            "count": 347,
+            "mentions": {
+              "RatRace": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738146811
+              },
+              "TYSM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737983715
+              },
+              "GRANEL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737039766
+              },
+              "POLTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737039766
+              },
+              "GEKKO": {
+                "count": 26,
+                "isTicker": true,
+                "timestamp": 1736961184
+              },
+              "HOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738061746
+              },
+              "DWF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737031710
+              },
+              "SOLYAN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738099145
+              },
+              "CoMusk": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738537584
+              },
+              "mando": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737021531
+              },
+              "at2RZ7LjhfvSvFK5DWutMhAFceaok7Ai9PQrrJfFiPpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737072401
+              },
+              "7aisqoG7bVh6dptHcuoGWgHoFUM8CeG1hH6T3mf7WgXh": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738410892
+              },
+              "7Q4nPY2xYJWcpKcS4UQFpYnRavfu5N3eeCSaCWbymTTh": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738435238
+              },
+              "518iDri9CULyGzRiR3VBa7R4V3fxsnRWFUucsFpgrvs7": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737888147
+              },
+              "AIR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738277780
+              },
+              "DROP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738277780
+              },
+              "COMING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738277780
+              },
+              "SOON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738277780
+              },
+              "2iL1EQRtUEaTBQQXZFXCnb3h8NpiqveNGfGcEc3fBSkf": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738017946
+              },
+              "RECOVERY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737930769
+              },
+              "HACKER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737930769
+              },
+              "kim": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737922234
+              },
+              "SGX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737041690
+              },
+              "SWTR": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737055429
+              },
+              "3ty8DYr7rRTRnU9qhUjN8Di3wiQsG7cso5T16NRoj1g2": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737017569
+              },
+              "CX4hHZqNv1EhjyoQi9w7YVugMkVf85cXwd5k4UxRbJmF": {
+                "count": 2,
+                "isTicker": false,
+                "timestamp": 1737960837
+              },
+              "87JUwv3ZiwRizcrR152R6Ris5xgpJ1Qn5wV8sN7zmoon": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738100441
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737025191
+              },
+              "KYC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737055836
+              },
+              "AML": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737055836
+              },
+              "7m3g7x9a8NyCiPWWKUhX1S2LXVuiJfVxKYqvJYsRpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738405648
+              },
+              "BHM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738331828
+              },
+              "GOVNOR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738336575
+              },
+              "CHILL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737887067
+              },
+              "ELEPHANT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737887067
+              },
+              "CkdJLK3fBUj43jSedTDJfC6xgouDdAWd1FZea3Qrmoon": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737056161
+              },
+              "FBgmB71qpt4KHjk7iqCJhDMs3PzeRouE9v4Teprcpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737042351
+              },
+              "AL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737013158
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2024-11-28",
+          "posted_timestamp": 1738564200.023,
+          "video_url": "https://www.tiktok.com/@cryptomasun/video/7442371478709996856",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/oMBEenmXEO0EJCSCaIaDfBXR12AFAAJQACrnIn?lk3s=b59d6b55&x-expires=1738735200&x-signature=9w3sP8WfE7LHgoLm%2FDOTlMxg120%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [],
+          "author": "cryptomasun",
+          "views": "33.9K",
+          "extracted_time": "2025-02-03T06:30:00.036Z",
+          "comments": {
+            "count": 834,
+            "mentions": {
+              "Bueno": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732873170
+              },
+              "WERE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732925770
+              },
+              "STILL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732925770
+              },
+              "GONNA": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1733934235
+              },
+              "BE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732925770
+              },
+              "STRONG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732925770
+              },
+              "POCGOD": {
+                "count": 12,
+                "isTicker": true,
+                "timestamp": 1732925765
+              },
+              "GRINCH": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732846066
+              },
+              "ABLE": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732910870
+              },
+              "WALLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732827266
+              },
+              "KNEE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732821779
+              },
+              "XAI19U": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732814729
+              },
+              "NYRIZZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732906826
+              },
+              "RIZZMAS": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732925770
+              },
+              "NMSK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738258820
+              },
+              "7aisqoG7bVh6dptHcuoGWgHoFUM8CeG1hH6T3mf7WgXh": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738410844
+              },
+              "GEKKO": {
+                "count": 52,
+                "isTicker": true,
+                "timestamp": 1736840519
+              },
+              "3ty8DYr7rRTRnU9qhUjN8Di3wiQsG7cso5T16NRoj1g2": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737017594
+              },
+              "PEOPLE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "ACTUALLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "LOTS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "MONEY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "TRUMP": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1736686272
+              },
+              "DONT": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1732888559
+              },
+              "MISS": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732925791
+              },
+              "OUT": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732925791
+              },
+              "MELANIA": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737350207
+              },
+              "TRUST": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "ME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737343784
+              },
+              "vhSdnFWi1YtUqjaEkU1dsKiYCaSdEWijJfX7Kfi6UFv": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737424735
+              },
+              "4T1Kw4cnvKpATmbYbizb8cdE6MK3tyv7LEjrU3pRJz8f": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737268107
+              },
+              "BEER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737268107
+              },
+              "MASSIVE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737268107
+              },
+              "HAPPEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737268107
+              },
+              "NELON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737888145
+              },
+              "BLOW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737888145
+              },
+              "UP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737888145
+              },
+              "https://pump.fun/coin/2W5tpMxxpCeYdiDK7uvPK9jnSGgcUv4ovPeJ4fE7pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737888145
+              },
+              "FzFUmZmZv9nLdQszeeepDPWVF4XSY6Vwe3KekUqFmoon": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737920681
+              },
+              "https://phantom.com/tokens/solana/FhT4EzHiZYbdanWURuqG8wJSnw1Z5b69VYTVbGp6pump?referralId=94x05jb41tc": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737969306
+              },
+              "nitro": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737488637
+              },
+              "turbo": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737488637
+              },
+              "NAS100": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737932774
+              },
+              "GRANEL": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1736654830
+              },
+              "POLTER": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1736654830
+              },
+              "ZOQO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737589365
+              },
+              "https://dexscreener.com/solana/J1EoK2RmsF4m26SNBorxjFzaSauY91z8XtCd9YVyMUiK?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737589365
+              },
+              "BOBLS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737583574
+              },
+              "7Q4nPY2xYJWcpKcS4UQFpYnRavfu5N3eeCSaCWbymTTh": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738435253
+              },
+              "kim": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737922244
+              },
+              "5m72JJbgQnEJx3Ws2U5JbrSjSAjSieXiwLdBWka9pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737317430
+              },
+              "HmrUpKLsHvoDp9zSZfdWwN82hc4MeizNWSPxjFjRX1BG": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738279844
+              },
+              "GOVNOR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738336609
+              },
+              "MARS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737418025
+              },
+              "BUILT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737899746
+              },
+              "DIFFERENT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737899746
+              },
+              "vsDLJBTQZTFcnvrosoA49Czqy9qZGu4tgjh768wpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737899746
+              },
+              "666AjmY7AFn5r4pNdvsyFkmb5JVwVB2cBjSMvNEzJPhi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737898273
+              },
+              "CoMusk": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738537886
+              },
+              "https://pump.fun/coin/BL76Ew92iDDkuMKYuVM9LRxKddSE3fUyG4TjeuNXpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737922605
+              },
+              "CX4hHZqNv1EhjyoQi9w7YVugMkVf85cXwd5k4UxRbJmF": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737960844
+              },
+              "REPUBLICAN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737499676
+              },
+              "egg": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738193512
+              },
+              "https://dexscreener.com/solana/9sqle2xcyn8tffqq7n895on8fzjehrzydndp2wz9moon": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738193268
+              },
+              "Milton": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738130512
+              },
+              "DST": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738111740
+              },
+              "HrkfKk433ff7RLKdomk4Shp21LE1AbNc98hgCBEnfsGk": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738111740
+              },
+              "F99qZ7waAfd5WyPAxvqBYQ2ANWeyWL5mFxhuXgJ2Hmm8": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738102163
+              },
+              "3frMHRWZCh4KodvHd7cw17E5hb2rNjZ5jMoAoevfpump?referralId=ap311uwt5x4": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738075116
+              },
+              "WEIRDO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738040232
+              },
+              "Dsa3ff1oRpo4k5WiZ14fjhtSqTnqrTk2HXjCfG3ipump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738013491
+              },
+              "BgZwBtQYak96FwCwjBp4q48XenGdN5NGNZBYMdRQpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737931473
+              },
+              "EgKdZBnR75hkMs1vKA4zvpwnG5ARq15Fye5iyJ7Rpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737836925
+              },
+              "6eFkYLSq9YyPfqPfrr7XiRPhHtVjro5wbHXB5p35pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737832066
+              },
+              "sKh55hyTPdRFyocWprncRMq4hG78G44Cqy2c7Qymrbt": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737827427
+              },
+              "LLC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737794346
+              },
+              "CEig6EvkG8usyMZfRRis36rEaWsmfpRk58D94nSLAevv": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737761248
+              },
+              "Frrxt19A7WXUNcmBgTKuawm6kcWDQgJd4zZfWcBMpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737751640
+              },
+              "CS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737741383
+              },
+              "CHECK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737733905
+              },
+              "3cjPJwJw781tYmq2zkk66HFiQXvQkvjVLLqRnvFdpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737714369
+              },
+              "hsm": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737679607
+              },
+              "TRC20": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737676369
+              },
+              "PC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737657258
+              },
+              "CMXr9HyT5oCy8e7yoRW7yC9heWx2PooRN4VViBo2pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737651716
+              },
+              "VINEKING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737641594
+              },
+              "aesthetic": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737635059
+              },
+              "CdFWWqhyEfMrTcxcKbQZT3rFcE1CJ8GVzZ4iz4oTpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737635059
+              },
+              "4cYmUKHZ1VC3M9HUAiYwCcn2B7oHn89uLyZk5Ckdpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737622311
+              },
+              "DNA": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732907299
+              },
+              "MILLIONARE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737601684
+              },
+              "MAKER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737601684
+              },
+              "Rekt": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737600400
+              },
+              "PM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737600400
+              },
+              "SO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737527112
+              },
+              "QFS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737452796
+              },
+              "BMW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737398107
+              },
+              "M6": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737398107
+              },
+              "WEF6900": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737393681
+              },
+              "5JWUrdzz3b8j2KSQ8VJwvs28ZTzB5H4hevdE7hkYpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737393681
+              },
+              "OPREZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737372178
+              },
+              "2c86XV47PSfFAFXLCQ1iMmGJU1jWKQseEDZBtcEC8QDW": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737350207
+              },
+              "MEME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737350207
+              },
+              "https://dexscreener.com/solana/9qnUwBKj3eN2wWzQ8kznCikBMaCaB1Fu9bEcA98VBcK1": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737319283
+              },
+              "chillchimp": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737148100
+              },
+              "TGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737144947
+              },
+              "9vawAnakzbv1B1WnorLxFDPg2LSA1kH5om3ZNRa1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737126634
+              },
+              "MONKEY": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732932344
+              },
+              "MAFIA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126634
+              },
+              "KYC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737105562
+              },
+              "AML": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737105562
+              },
+              "SWTR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737105562
+              },
+              "Estee": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736957671
+              },
+              "ESTEE": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736953352
+              },
+              "92dyP9brmBtGQAn6TckKiZdNCUCVHFLw9anhTfUPzvgn": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736923276
+              },
+              "XERAI": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736629615
+              },
+              "FOLLOW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "US": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "BULLFI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "GET": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1733819194
+              },
+              "EARLY": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732925767
+              },
+              "MAKE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "BANK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "AIRDROPS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "DAILY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736805080
+              },
+              "SHIBAI": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1736584465
+              },
+              "MRSSHIBAI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736794674
+              },
+              "BDF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736790635
+              },
+              "THGUY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736775938
+              },
+              "J9cEMoiv88SgZHoUdBqg3TxKbXZZzajJEqJ9hTqNpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736775938
+              },
+              "AIXBT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736775925
+              },
+              "AhQSMj6PZNDr2vD5ahgMXAiTMDJ9ZHcUugj5jGjzkpRJ": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736774276
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736713925
+              },
+              "9n1YWSLnUC4G9jpo9C5zF7QBBgdRvhoQrfgRSvyzmoon": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736707169
+              },
+              "SGX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736684913
+              },
+              "RWA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736684913
+              },
+              "BEG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "EVERYONE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "PWIF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "ARE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "REGRET": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "BUYING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "LOOK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "INTO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "IT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736632006
+              },
+              "ETF500": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736611079
+              },
+              "SOL": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1732914594
+              },
+              "pland": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736602681
+              },
+              "GLXZu3kHbBCEWfLpt6PKeFSEMiGtJf2yhUbpXWzapump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736568232
+              },
+              "73Mph2gfEWqvtJ84k2RwUhUinR4VTEYXrCn5ivXwpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736547990
+              },
+              "LHC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736511534
+              },
+              "6bEhdhw86qsAWgtpjhLSkvgVg2Ktj3h94hXimAf2e2QL": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736511534
+              },
+              "BNB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736487389
+              },
+              "CX7ZwS1o5M8zQZFLvudZDC1BzHaJarBpG7RNh1GUpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736021117
+              },
+              "GAPE": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1735290288
+              },
+              "HREdVBmGvUvdgvoGeHwYpEQNJRb1oqmScwV5z1dHpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735287724
+              },
+              "FtgXjsqXWDQtq1w1LF2J23ZUqZXRyUvPntpMWm2npump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1734380834
+              },
+              "Rizzmaseve": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734368950
+              },
+              "sigmacat": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734324258
+              },
+              "CDRAG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734205819
+              },
+              "CWSTD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734205819
+              },
+              "CVD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734205819
+              },
+              "SANTA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734204616
+              },
+              "https://dexscreener.com/solana/ctmftu1ebcn1n54uf66ppf9trysft6wknsq1yabetfai": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1734204075
+              },
+              "Angel": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734129528
+              },
+              "CATOSHI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734110416
+              },
+              "SUSOWL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734101792
+              },
+              "SILLYGOOSE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734101083
+              },
+              "TROG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734096102
+              },
+              "KID": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734078747
+              },
+              "zGQnt9euRqSpQCxAEcQ2ieFKyeRhqcNncy4uXH3pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733943930
+              },
+              "HAPPY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733943930
+              },
+              "SOLIDAYS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733943930
+              },
+              "HRMB": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1733928081
+              },
+              "CHILLCRO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733934235
+              },
+              "KpECzUB2AFnT3xTh29fD3yDtBrnm1q1WyfF64q1pump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733917469
+              },
+              "rizzmas": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733917462
+              },
+              "kalki": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733916523
+              },
+              "YMB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733902511
+              },
+              "YO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733902511
+              },
+              "BOY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733902511
+              },
+              "BN7": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733867133
+              },
+              "memecoin": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733847727
+              },
+              "CPA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733784439
+              },
+              "chilleve": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733781343
+              },
+              "PWENG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733753335
+              },
+              "COMEBACK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733753335
+              },
+              "Pooty": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733736645
+              },
+              "MeanOne": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733733240
+              },
+              "AKktFycsMS6rs5RAeaVnBNrKnCtW5PvRqHzbhLpEprUD": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733733240
+              },
+              "SANTABTC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733729133
+              },
+              "plankton": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733724337
+              },
+              "SHIBA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733719643
+              },
+              "XAI6": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733719643
+              },
+              "KALM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733716486
+              },
+              "HONEY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733600925
+              },
+              "CALL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733512551
+              },
+              "DUTY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733512551
+              },
+              "COD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733512551
+              },
+              "XGUY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733510980
+              },
+              "RNA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733510498
+              },
+              "BABY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733496097
+              },
+              "NEXT": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1733391790
+              },
+              "GEM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733496097
+              },
+              "RIPBTC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733492535
+              },
+              "DDD": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1733391790
+              },
+              "pumppump": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733472714
+              },
+              "bones": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733472675
+              },
+              "tits": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733452248
+              },
+              "HORSECOIN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733441233
+              },
+              "8GGp1qnAU3qPmiAaQfwZke5be53CKAdas5HHJfsRpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733433043
+              },
+              "SMYLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733420999
+              },
+              "XMASGUY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733420534
+              },
+              "morty": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733397068
+              },
+              "SUNNY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733376882
+              },
+              "MERRY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733354126
+              },
+              "SCAM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733333419
+              },
+              "KEYCAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733250203
+              },
+              "CFTC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733232578
+              },
+              "LCX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733162739
+              },
+              "HBAR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733162739
+              },
+              "XLM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733162739
+              },
+              "GONZALEZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733058856
+              },
+              "ORNGCAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732978529
+              },
+              "KATA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732972431
+              },
+              "RIZZ": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732932344
+              },
+              "WE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732932443
+              },
+              "Rizzmas": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732930929
+              },
+              "SARAH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732919518
+              },
+              "ONLYCHILLS": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1732915967
+              },
+              "JAK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732914594
+              },
+              "GAL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732914594
+              },
+              "CHILLCHEF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732912072
+              },
+              "SVJ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732911241
+              },
+              "SITCOM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732909058
+              },
+              "NYRizz": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732906934
+              },
+              "LETSMOON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732888559
+              },
+              "SLEEP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732888559
+              },
+              "DQDabdBfjDbkPmBUTKruzm6cEV9xrfvPAfy95LyXpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1732887003
+              },
+              "SW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732861816
+              },
+              "CHILLGR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732857681
+              },
+              "MC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732857681
+              },
+              "DIVERSIFY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732857681
+              },
+              "MOOOOOON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732846066
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2d ago",
+          "posted_timestamp": 1738391442.976,
+          "video_url": "https://www.tiktok.com/@scarfacetrades_/video/7466141198965869830",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ooke6AKkhSAIkEQPEOFfCEg92HvAfMIBjADnIi?lk3s=b59d6b55&x-expires=1738735200&x-signature=5EJoQTAzRnKhFCqNxAm9WdWbz6Q%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#scarfacetrades",
+            "#trading",
+            "#daytrading",
+            "#fyp",
+            "#success",
+            "#daytrader"
+          ],
+          "author": "scarfacetrades_",
+          "views": "969",
+          "extracted_time": "2025-02-03T06:30:42.984Z",
+          "comments": {
+            "count": 36,
+            "mentions": {
+              "BOPS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738347155
+              },
+              "BOP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738347155
+              },
+              "HOUSE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738347155
+              },
+              "WAVE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738405789
+              },
+              "LINK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738351492
+              },
+              "BIO": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "WITH": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738351492
+              },
+              "VENDOR": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "WE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738351492
+              },
+              "ALL": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "SUCCESSFUL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738351492
+              },
+              "EA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738412967
+              },
+              "BS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738412967
+              },
+              "MOVING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "REAL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "SICCESFUL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738355684
+              },
+              "GRANEL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518202
+              },
+              "POLTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518202
+              },
+              "MANCINI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738395058
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1d ago",
+          "posted_timestamp": 1738477844.218,
+          "video_url": "https://www.tiktok.com/@investingyalljshrodes/video/7466599871949131014",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/o8EPSIdQGvkIWEsWgIeQA7AAMLGeAPCIyi8jPe~tplv-dmt-logom:tos-useast2a-v-0068/oQUNE2AUIErw1tABrsnEeDQCnQnFJZAfQAwFER.image?lk3s=b59d6b55&x-expires=1738735200&x-signature=yOgFlgULo%2BldJl1Un0V6cEaQmcQ%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#Cryptocurrency",
+            "#Crypto",
+            "#Bitcoin",
+            "#BTC",
+            "#Ethereum",
+            "#ETH",
+            "#Blockchain",
+            "#CryptoTrading",
+            "#CryptoInvesting",
+            "#CryptoCommunity",
+            "#CryptoMarket",
+            "#CryptoCurrencyNews",
+            "#CryptoLife",
+            "#CryptoWorld",
+            "#CryptoInvestor",
+            "#CryptoEducation",
+            "#CryptoTips",
+            "#CryptoGains",
+            "#Altcoins",
+            "#DeFi",
+            "#NFT",
+            "#NFTCommunity",
+            "#NFTs",
+            "#Metaverse",
+            "#CryptoAnalysis",
+            "#CryptoAlert",
+            "#CryptoStrategy",
+            "#CryptoPortfolio",
+            "#Finance",
+            "#Investing",
+            "#Investment",
+            "#Investor",
+            "#Wealth",
+            "#WealthBuilding",
+            "#FinancialFreedom",
+            "#FinancialLiteracy",
+            "#FinancialIndependence",
+            "#Money",
+            "#MoneyManagement",
+            "#PassiveIncome",
+            "#Earnings",
+            "#RichMindset",
+            "#PersonalFinance",
+            "#SmartInvesting",
+            "#InvestmentStrategy",
+            "#Stocks",
+            "#StockMarket",
+            "#StockTrading",
+            "#StockInvestor",
+            "#DayTrading",
+            "#SwingTrading",
+            "#StockMarketNews",
+            "#StockMarketTips",
+            "#StockAnalysis",
+            "#StockAlert",
+            "#StockPicks",
+            "#StockPortfolio",
+            "#RealEstate",
+            "#RealEstateInvesting",
+            "#RealEstateInvestor",
+            "#PropertyInvestment",
+            "#RealEstateMarket",
+            "#RealEstateTips",
+            "#RealEstateStrategy",
+            "#PropertyManagement",
+            "#RealEstateLife",
+            "#RealEstateSuccess",
+            "#InvestmentTips",
+            "#InvestmentOpportunities",
+            "#InvestmentPortfolio",
+            "#LongTermInvesting",
+            "#RetirementPlanning",
+            "#WealthManagement",
+            "#AssetManagement",
+            "#InvestmentGoals",
+            "#Fintech",
+            "#TechInvesting",
+            "#Innovation",
+            "#TechNews",
+            "#FutureTech",
+            "#digitalassets",
+            "#greenscreen"
+          ],
+          "author": "investingyalljshrodes",
+          "views": "1113",
+          "extracted_time": "2025-02-03T06:30:44.252Z",
+          "comments": {
+            "count": 105,
+            "mentions": {
+              "CAIZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738458514
+              },
+              "PLATFORM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738535140
+              },
+              "TECH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738493453
+              },
+              "WHATSAPP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477272
+              },
+              "COMMUNITY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477272
+              },
+              "TD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738538545
+              },
+              "LOVE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738498193
+              },
+              "❤️❤️❤️://phantom.com/tokens/solana/p5UqGHQ9NJsZFG2JKXiCZaVUGPDEaPTJN3z1Bi2moon?referralId=kpt29vhcdg": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738498193
+              },
+              "MESSAGE": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "ME": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "PRIVATE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "FOR": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "QICKE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "HELP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "RECOVERED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "ALL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "LOST": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "FUNDS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738532716
+              },
+              "GRANEL": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1738556366
+              },
+              "POLTER": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1738556366
+              },
+              "SAFE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738493640
+              },
+              "RECOVERY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738493640
+              },
+              "TYSM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738495701
+              },
+              "ROT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477891
+              },
+              "WALLET": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "RECEIVERS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "WEBSITE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "PLATFORMS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "BINANCE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "LOADING": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "LONG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "TERM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "PARTNERS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "ONLY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "MORE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738477256
+              },
+              "VINE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738488336
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2024-10-23",
+          "posted_timestamp": 1738564248.453,
+          "video_url": "https://www.tiktok.com/@savvybtrades/video/7429019079031131398",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/oIaWDBzeOQCfDJ2yCOLIgRG9IMAjxTYQIhe0Sl~tplv-dmt-logom:tos-useast2a-v-0068/oEwZIJTAzEEACAg5LBjibAbiIEBAPPAnBofyYt.image?lk3s=b59d6b55&x-expires=1738735200&x-signature=D3exPNN%2BuE5bZ7bA%2BRyhRUYfyIQ%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#daytrader",
+            "#daytrading",
+            "#futurestrading",
+            "#futurestrader",
+            "#stockmarket",
+            "#es",
+            "#nq",
+            "#forex"
+          ],
+          "author": "savvybtrades",
+          "views": "39.5K",
+          "extracted_time": "2025-02-03T06:30:48.463Z",
+          "comments": {
+            "count": 257,
+            "mentions": {
+              "FU": {
+                "count": 19,
+                "isTicker": true,
+                "timestamp": 1736987232
+              },
+              "HUNGRY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1730678879
+              },
+              "ICT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1729951588
+              },
+              "TIME": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735847522
+              },
+              "FRAME": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735847522
+              },
+              "VSA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736320632
+              },
+              "PA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1729836269
+              },
+              "WWA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1729807552
+              },
+              "WHO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "NEEDS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "HELP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "STARTING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "AN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "ONLINE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "BUSINESS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736811666
+              },
+              "US": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736428849
+              },
+              "DOWNBAD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732274612
+              },
+              "XAUUSD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1729776334
+              },
+              "QQQ": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1733574720
+              },
+              "T5LgqRrg4XfuDiusDRScwBNdgY3DxoEn7VsjB1spump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1733334646
+              },
+              "Toki": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735819182
+              },
+              "PEBBLE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732181914
+              },
+              "chillguy": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1731993564
+              },
+              "HREdVBmGvUvdgvoGeHwYpEQNJRb1oqmScwV5z1dHpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735257342
+              },
+              "RIZZELF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732805064
+              },
+              "WANNA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734397875
+              },
+              "LEARN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734397875
+              },
+              "FOLLOW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734397875
+              },
+              "OR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734397875
+              },
+              "PMOLORD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735759686
+              },
+              "HUGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732833556
+              },
+              "PC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732675764
+              },
+              "MOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735934436
+              },
+              "WINTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732312377
+              },
+              "ARC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732312377
+              },
+              "TSLA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1729841813
+              },
+              "XNO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733837763
+              },
+              "NAVIDOGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1732492091
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "degen%20trading",
+      "total_videos": 3,
+      "videos": [
+        {
+          "posted_time": "2024-12-4",
+          "posted_timestamp": 1738564270.225,
+          "video_url": "https://www.tiktok.com/@bybit.africa/video/7444478882146716983",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ogcBiAtLAC2iOlyQIHKiif5PkGqDzIAEjgJIoK?lk3s=b59d6b55&x-expires=1738735200&x-signature=mClDVOxwa3BDgLOyiprP6PVP8q0%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#degen",
+            "#crypto",
+            "#btc",
+            "#bybit",
+            "#bybitafrica",
+            "#forex",
+            "#funnytiktok"
+          ],
+          "author": "bybit.africa",
+          "views": "",
+          "extracted_time": "2025-02-03T06:31:10.234Z",
+          "comments": {
+            "count": 125,
+            "mentions": {
+              "johnetspy": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735052285
+              },
+              "KATA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733766087
+              },
+              "P2P": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1733774132
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2024-12-22",
+          "posted_timestamp": 1738564277.746,
+          "video_url": "https://www.tiktok.com/@9fstudio.com/video/7451176264280411424",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/oIAyAPu5BhBziARBZni5fkEGsBHI0ndozQK6kA?lk3s=b59d6b55&x-expires=1738735200&x-signature=FXne%2BcaoNhkRLkebikjzcx3hpts%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [],
+          "author": "9fstudio.com",
+          "views": "116.9K",
+          "extracted_time": "2025-02-03T06:31:17.760Z",
+          "comments": {
+            "count": 786,
+            "mentions": {
+              "Teamwork": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736956829
+              },
+              "Magnet": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737232139
+              },
+              "TEAMWORK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736761163
+              },
+              "XD": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737650626
+              },
+              "FF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736699465
+              },
+              "BP5JCUEES9": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736259975
+              },
+              ":🚀🚀🚀DeDLqtQBLRtkFRwDTjHfy7fzxVAyNyXsWtfG5zGBDcxS": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736374195
+              },
+              "GENEX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737725629
+              },
+              "BP9F81TE6Z": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736708108
+              },
+              "SHDZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736695346
+              },
+              "BINANCE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736622739
+              },
+              "RED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736622739
+              },
+              "GIFT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736622739
+              },
+              "BP24FG56S4": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736622739
+              },
+              "BP9PODC21C": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736584019
+              },
+              "GEKKO": {
+                "count": 4,
+                "isTicker": true,
+                "timestamp": 1736338664
+              },
+              "SGX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736856453
+              },
+              "DPR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736856453
+              },
+              "CEX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736441559
+              },
+              "MB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736858572
+              },
+              "CLASS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738284486
+              },
+              "SHARE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736747740
+              },
+              "NEWHS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736747740
+              },
+              "WHEOO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736747740
+              },
+              "NEVER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "MEME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "COINS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "IT": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "EAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "ALL": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "YOUR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "MONEY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736975604
+              },
+              "TRC20": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737622713
+              },
+              "ALpP1XeZuADpPcaCZASf5FDnw4qAzT4UxuMoNsYYpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738536112
+              },
+              "TIRED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738368687
+              },
+              "https://track.deriv.com/_y5MGw43ccZYKqFKZ7JdnQ2Nd7ZgqdRLk/1/": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738341951
+              },
+              "TON": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1737964338
+              },
+              "ME": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "RIYAD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737877857
+              },
+              "TB9gkh17Gwk9nviudbxRwnJ1bVbvkT2JG8": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737622713
+              },
+              "QFS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737590229
+              },
+              "JAJAJAJA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737531254
+              },
+              "LBANK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737497769
+              },
+              "Cheez": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737474257
+              },
+              "xavier": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737413672
+              },
+              "AKZHIGITOV": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737409958
+              },
+              "TRUMP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737212962
+              },
+              "LOOK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "AT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "SWAGCAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "GONNA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "WATCH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737097689
+              },
+              "BNB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736650822
+              },
+              "7CXsbiVBB5XC5GWZZ3iopUBpnJDQoPJDNpgM4PBGpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736538637
+              },
+              "HEGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736511344
+              },
+              "MT103": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736478832
+              },
+              "GPI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736478832
+              },
+              "OR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736478832
+              },
+              "BPPN6GHCGQ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736239753
+              },
+              "Tape": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736110775
+              },
+              "HxzhDDHK9e8KMCXf4PXfupLG2C2BqkubR6nib4Fvpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736110775
+              },
+              "BD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736072809
+              },
+              "https://pump.fun/53iVeWnmnaULdg4ygrT89sRdXn2gy589MYpD5Zd4fvoU": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735895883
+              },
+              "NY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735894804
+              },
+              "GNKS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735831875
+              },
+              "9SUCZg1RMpyMMYzRP9Z3JSZFghXGoXerEzjKQvbSpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735813159
+              },
+              "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735669629
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735574021
+              },
+              "CV": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735556038
+              },
+              "5Bmt5MkctHDW1G4cq6aTAheWfVHmDShisX6ivHECpn8Y": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735522702
+              },
+              "GAPE": {
+                "count": 7,
+                "isTicker": true,
+                "timestamp": 1735239499
+              },
+              "PHNIX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735395613
+              },
+              "TRUST": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735347361
+              },
+              "WALLET": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735347361
+              },
+              "Gape": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735312148
+              },
+              "HREdVBmGvUvdgvoGeHwYpEQNJRb1oqmScwV5z1dHpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735308913
+              },
+              "Gap": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735308913
+              },
+              "galaxis": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735238331
+              },
+              "BOT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "AVAILABLE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "TRADING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "SESSION": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "STARTED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "WITHOUT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "FEES": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "ANYONE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "INTERESTED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "MESSAGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "INBOX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735231919
+              },
+              "SHAK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735156183
+              },
+              "RNA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735156183
+              },
+              "FLAPPY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735149477
+              },
+              "SEED": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735126825
+              },
+              "PHRASE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735126825
+              },
+              "Solana": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735037021
+              },
+              "📄Contract:H5jmaN5NTmmXWHZAiywDh4AVxSnZxSKJGfouu5RoHr8t": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735032726
+              },
+              "🔗Link:https://pump.fun/coin/H5jmaN5NTmmXWHZAiywDh4AVxSnZxSKJGfouu5RoHr8t": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735032726
+              },
+              "MONCH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735032726
+              },
+              "PLAYZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735015574
+              },
+              "XON": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735008777
+              },
+              "Tema": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734983070
+              },
+              "MEXC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734983070
+              },
+              "PT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734981248
+              },
+              "GROK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734949918
+              },
+              "SPIINNING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734923177
+              },
+              "CAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734923177
+              },
+              "DEGEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734871705
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2024-12-2",
+          "posted_timestamp": 1738564311.373,
+          "video_url": "https://www.tiktok.com/@9fstudio.com/video/7443853863490293025",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/oo8EVmCClLtoAEeBhOdlrdgVLIIFeGeGQbwuxf?lk3s=b59d6b55&x-expires=1738735200&x-signature=dVtHIdB6Ejxp%2FcJlj5jKhZ7ptyE%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [],
+          "author": "9fstudio.com",
+          "views": "416.8K",
+          "extracted_time": "2025-02-03T06:31:51.387Z",
+          "comments": {
+            "count": 670,
+            "mentions": {
+              "TRADING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737125302
+              },
+              "TU": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734013268
+              },
+              "PER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736983284
+              },
+              "GUA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126793
+              },
+              "YANG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126793
+              },
+              "GANGSTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126793
+              },
+              "NYIMAK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126793
+              },
+              "AJA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737126793
+              },
+              "Magnet": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737227202
+              },
+              "TRC20": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737384990
+              },
+              "BP5JCUEES9": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737287901
+              },
+              "MASS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737198812
+              },
+              "FOLLOWING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737198812
+              },
+              "GEKKO": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1736338582
+              },
+              "ICE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737925636
+              },
+              "TRUST": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737438321
+              },
+              "WALLET": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737438321
+              },
+              "2DD13STLzQc7YgULBQ63aeMEUgHeNBxSmVc79Qgxpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1737302975
+              },
+              "CV": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737626103
+              },
+              "QR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737573606
+              },
+              "DRIFTCTO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737412035
+              },
+              "NADA": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737408046
+              },
+              "WP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737408046
+              },
+              "COMPREN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737339144
+              },
+              "MIS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737339144
+              },
+              "Zerebrotos": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1737137610
+              },
+              "BNB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736650834
+              },
+              "MT103": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736479780
+              },
+              "GPI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736479780
+              },
+              "OR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736479780
+              },
+              "UQCuDCApzr5ifNP_zcSvbbEGPKJZSwCZoHcT8fPeyGzdndat": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1736288941
+              },
+              "BD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1736150216
+              },
+              "DZ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735987199
+              },
+              "Pengulino": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735751745
+              },
+              "H2gQ6tx7jz2LU2voCsnsAmKW8jRNwispWJX1re5faTGi": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735584463
+              },
+              "GBTC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735505194
+              },
+              "GAPE": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1735313422
+              },
+              "HREdVBmGvUvdgvoGeHwYpEQNJRb1oqmScwV5z1dHpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1735313422
+              },
+              "gape": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735311191
+              },
+              "GROK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735271734
+              },
+              "jak": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1735056167
+              },
+              "JUTT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1734968180
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "crypto%20signals",
+      "total_videos": 4,
+      "videos": [
+        {
+          "posted_time": "8h ago",
+          "posted_timestamp": 1738535550.283,
+          "video_url": "https://www.tiktok.com/@cavemanfantasy/video/7466946809798151429",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/oUjEkLCbAAteEmPtJP4PAISfUAIIQAQfG97BIg?lk3s=b59d6b55&x-expires=1738735200&x-signature=AyVsP7ClUXNaN3lcP%2BZInR%2BVmFk%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#xrp",
+            "#XRPnewstoday",
+            "#usacrypto",
+            "#rippl",
+            "#xrpcommunity",
+            "#xrpupdate",
+            "#cryptocurrency",
+            "#cryptotrading",
+            "#tradingplatform",
+            "#longterm",
+            "#blockchain",
+            "#usa🇺🇸",
+            "#ripplexrp",
+            "#rlusd",
+            "#xrpholders",
+            "#trending",
+            "#tariffs",
+            "#10k"
+          ],
+          "author": "cavemanfantasy",
+          "views": "",
+          "extracted_time": "2025-02-03T06:32:30.304Z",
+          "comments": {
+            "count": 33,
+            "mentions": {
+              "REAL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738550875
+              },
+              "ALVARO": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1738542450
+              },
+              "MARIE": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738561305
+              },
+              "COACH": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738561305
+              },
+              "TRC20": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738556022
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "14h ago",
+          "posted_timestamp": 1738513954.59,
+          "video_url": "https://www.tiktok.com/@investingyalljoshrhodes/video/7466845309084208415",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/845b6a01f00457fe08b7fbe78c92678d~c5_100x100.jpeg?lk3s=a5d48078&nonce=69268&refresh_token=893e4f0df24af15a6326a83ce250fd9f&x-expires=1738735200&x-signature=zCKP9affn29l1zY1zd%2F%2Fx1rwl7E%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#Cryptocurrency",
+            "#Crypto",
+            "#Bitcoin",
+            "#BTC",
+            "#Ethereum",
+            "#ETH",
+            "#Blockchain",
+            "#CryptoTrading",
+            "#CryptoInvesting",
+            "#CryptoCommunity",
+            "#CryptoMarket",
+            "#CryptoCurrencyNews",
+            "#CryptoLife",
+            "#CryptoWorld",
+            "#CryptoInvestor",
+            "#CryptoEducation",
+            "#CryptoTips",
+            "#CryptoGains",
+            "#Altcoins",
+            "#DeFi",
+            "#NFT",
+            "#NFTCommunity",
+            "#NFTs",
+            "#Metaverse",
+            "#CryptoAnalysis",
+            "#CryptoAlert",
+            "#CryptoStrategy",
+            "#CryptoPortfolio",
+            "#Finance",
+            "#Investing",
+            "#Investment",
+            "#Investor",
+            "#Wealth",
+            "#WealthBuilding",
+            "#FinancialFreedom",
+            "#FinancialLiteracy",
+            "#FinancialIndependence",
+            "#Money",
+            "#MoneyManagement",
+            "#PassiveIncome",
+            "#Earnings",
+            "#RichMindset",
+            "#PersonalFinance",
+            "#SmartInvesting",
+            "#InvestmentStrategy",
+            "#Stocks",
+            "#StockMarket",
+            "#StockTrading",
+            "#StockInvestor",
+            "#DayTrading",
+            "#SwingTrading",
+            "#StockMarketNews",
+            "#StockMarketTips",
+            "#StockAnalysis",
+            "#StockAlert",
+            "#StockPicks",
+            "#StockPortfolio",
+            "#RealEstate",
+            "#RealEstateInvesting",
+            "#RealEstateInvestor",
+            "#PropertyInvestment",
+            "#RealEstateMarket",
+            "#RealEstateTips",
+            "#RealEstateStrategy",
+            "#PropertyManagement",
+            "#RealEstateLife",
+            "#RealEstateSuccess",
+            "#InvestmentTips",
+            "#InvestmentOpportunities",
+            "#InvestmentPortfolio",
+            "#LongTermInvesting",
+            "#RetirementPlanning",
+            "#WealthManagement",
+            "#AssetManagement",
+            "#InvestmentGoals",
+            "#Fintech",
+            "#TechInvesting",
+            "#Innovation",
+            "#TechNews",
+            "#FutureTech",
+            "#digitalassets",
+            "#greenscreen"
+          ],
+          "author": "investingyalljoshrhodes",
+          "views": "1848",
+          "extracted_time": "2025-02-03T06:32:34.616Z",
+          "comments": {
+            "count": 129,
+            "mentions": {
+              "FACTS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518069
+              },
+              "PC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738511414
+              },
+              "WE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738512734
+              },
+              "DCA": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1738517405
+              },
+              "MORE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738559666
+              },
+              "RIO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738521262
+              },
+              "WIF": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738512130
+              },
+              "MUSE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738511760
+              },
+              "MKT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738511760
+              },
+              "CHECK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738511760
+              },
+              "IT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738511760
+              },
+              "HUGE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738535696
+              },
+              "THERIZZLER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738533471
+              },
+              "ICP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738544636
+              },
+              "LINK": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518976
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1d ago",
+          "posted_timestamp": 1738477962.034,
+          "video_url": "https://www.tiktok.com/@bossbitcoin/video/7466440989046000928",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/41a4f7b051dc95368f3fcab2f84bf4be~c5_100x100.jpeg?lk3s=a5d48078&nonce=30623&refresh_token=826468cdecbd23d82f4e1d221c782d7e&x-expires=1738735200&x-signature=g38GClNV%2Ft3nXAmHPOltY82pR78%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto",
+            "#btc",
+            "#xrp",
+            "#xlm",
+            "#blockchain",
+            "#zksync",
+            "#hbar",
+            "#memecoin",
+            "#web3",
+            "#onx",
+            "#xrparmy"
+          ],
+          "author": "bossbitcoin",
+          "views": "739",
+          "extracted_time": "2025-02-03T06:32:42.044Z",
+          "comments": {
+            "count": 111,
+            "mentions": {
+              "TRC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738435672
+              },
+              "KLAUS": {
+                "count": 17,
+                "isTicker": true,
+                "timestamp": 1738421148
+              },
+              "PEPE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738420997
+              },
+              "naked": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738445623
+              },
+              "TRC20": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738451161
+              },
+              "SEC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738494638
+              },
+              "FORGOT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "PASSWORD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "WALLET": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "HOLDS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "SOME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "HOW": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "CAN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "RESET": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "RECOVERY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738437002
+              },
+              "trump": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738423264
+              },
+              "Be7i16XwD6u8gqn1hVjES49WZhWjsxT8a26gk28Dpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738447025
+              },
+              "7N7Ahjiu6XiePd7SDNXiihHCe7PciYNbvdzKtDMM2M7S": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738439190
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "7h ago",
+          "posted_timestamp": 1738539166.113,
+          "video_url": "https://www.tiktok.com/@cryptooklng1mn/video/7466960070639701264",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cd6f35eb23712565bf53d0040fdb657c.jpeg?lk3s=a5d48078&nonce=86916&refresh_token=daed4d8144c3b5c0c4e0b481415bd704&x-expires=1738735200&x-signature=ZN6lO%2FKCzcm0aLkqg3TtF2887Bw%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#xrparmy",
+            "#xrpcommunity",
+            "#xrp",
+            "#xrpcrypto",
+            "#xrpnews",
+            "#cryptonews",
+            "#btc",
+            "#bitcoin",
+            "#btcfamily",
+            "#xrpripple",
+            "#xrpthestandard",
+            "#cryptotok",
+            "#bitcoinforbeginners"
+          ],
+          "author": "cryptooklng1mn",
+          "views": "3",
+          "extracted_time": "2025-02-03T06:32:46.128Z",
+          "comments": {
+            "count": 2,
+            "mentions": {
+              "ALVARO": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738552424
+              },
+              "GRANEL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738550929
+              },
+              "POLTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738550929
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

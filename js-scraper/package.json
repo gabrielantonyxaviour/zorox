@@ -12,9 +12,11 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.47.10",
     "axios": "^1.7.9",
+    "bignumber.js": "^9.1.2",
     "dotenv": "^16.4.7",
     "fs": "^0.0.1-security",
     "heurist": "^0.0.36",
+    "node-cache": "^5.1.2",
     "ollama": "^0.5.12",
     "os": "^0.1.2",
     "path": "^0.12.7",

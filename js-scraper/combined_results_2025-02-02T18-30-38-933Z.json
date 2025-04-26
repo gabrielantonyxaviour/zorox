@@ -1,0 +1,1020 @@
+{
+  "extraction_time": "2025-02-02T18:30:38.934Z",
+  "total_searches": 5,
+  "results": [
+    {
+      "search": "memecoin",
+      "total_videos": 9,
+      "videos": [
+        {
+          "posted_time": "33m ago",
+          "posted_timestamp": 1738518928.262,
+          "video_url": "https://www.tiktok.com/@cjman1/video/7466881566522887470",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oAtnLUFlAAArARBcgIFWnsSDifYpwW7EDECEfQ?lk3s=b59d6b55&x-expires=1738692000&x-signature=0v250VQcmRtRE4D7sLCrD75%2Bo9A%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#memecoin",
+            "#solana",
+            "#pumpfun",
+            "#raydium",
+            "#solanamemecoin",
+            "#trading",
+            "#cryptotrading",
+            "#memecoins",
+            "#bitcoin",
+            "#cryptocurrency",
+            "#solmemecoin"
+          ],
+          "author": "cjman1",
+          "views": "",
+          "extracted_time": "2025-02-02T18:28:28.279Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "2h ago",
+          "posted_timestamp": 1738513711.689,
+          "video_url": "https://www.tiktok.com/@gregverde2/video/7466853458835033362",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oMql6B76PsDaLhzfCiFEAeDhIPAjn6lQIcfv4y?lk3s=b59d6b55&x-expires=1738692000&x-signature=Ga5u8rgNCUW7OlMMJVvp5VaNlmE%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#crypto",
+            "#memecoin",
+            "#bitcoin",
+            "#solana",
+            "#xrp"
+          ],
+          "author": "gregverde2",
+          "views": "64",
+          "extracted_time": "2025-02-02T18:28:31.708Z",
+          "comments": {
+            "count": 11,
+            "mentions": {
+              "AHM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518008
+              },
+              "OHM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518008
+              },
+              "HOODAI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518008
+              },
+              "GHOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738512374
+              },
+              "FGE8m2KvZF1AhpKqjmskwaN7jeCW3FrWqyR8PGBSpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738518078
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "5h ago",
+          "posted_timestamp": 1738502912.469,
+          "video_url": "https://www.tiktok.com/@pump.fun/video/7466800861365194016",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/fa28f1d5817c255a64b9c92fedf40c46~c5_100x100.jpeg?lk3s=a5d48078&nonce=78896&refresh_token=14d45ed7a8424d54192c6ca2732d8bd0&x-expires=1738692000&x-signature=yCbOpTGOu61N2Plh9fQslOJnmzM%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#tradingtiktok",
+            "#parlay",
+            "#meme",
+            "#memes",
+            "#memecoins",
+            "#solana",
+            "#pumpfun",
+            "#trenches"
+          ],
+          "author": "pump.fun",
+          "views": "58",
+          "extracted_time": "2025-02-02T18:28:32.480Z",
+          "comments": {
+            "count": 8,
+            "mentions": {
+              "VRSUS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738501446
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "56m ago",
+          "posted_timestamp": 1738517553.04,
+          "video_url": "https://www.tiktok.com/@whaletrail_sol/video/7466875633092594974",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50864d76e77c603bc2dd93e56a338933~c5_100x100.jpeg?lk3s=a5d48078&nonce=95012&refresh_token=7c39bb35beacd48e099c3cc05504576b&x-expires=1738692000&x-signature=PPk1wJmddiTYfzUKKqjvHybE4Eg%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#memecoins",
+            "#memecoin",
+            "#crypto",
+            "#solana"
+          ],
+          "author": "whaletrail_sol",
+          "views": "3",
+          "extracted_time": "2025-02-02T18:28:33.055Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "1d ago",
+          "posted_timestamp": 1738434515.833,
+          "video_url": "https://www.tiktok.com/@im.cryptochino/video/7466234980968992043",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYCnSEJIDpaVWCZDgEfUAlAAxFehAnDEA31R8d~tplv-dmt-logom:tos-useast5-i-0068-tx/oUiVnZUIP1A5iAHiPBB8lg4SjAkAdCZtEgArE.image?lk3s=b59d6b55&x-expires=1738692000&x-signature=7fjnSfIZ36XK%2FkHx8TrTRce5xnQ%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#crypto",
+            "#cryptok",
+            "#cryptonews",
+            "#cryptocurrency",
+            "#altszn",
+            "#bitcoin",
+            "#investor",
+            "#cryptotrading",
+            "#altcoins"
+          ],
+          "author": "im.cryptochino",
+          "views": "66",
+          "extracted_time": "2025-02-02T18:28:35.844Z",
+          "comments": {
+            "count": 16,
+            "mentions": {
+              "GRANEL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738516305
+              },
+              "POLTER": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738516305
+              },
+              "GHOG": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738517557
+              },
+              "HOOD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738368621
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "31m ago",
+          "posted_timestamp": 1738519056.467,
+          "video_url": "https://www.tiktok.com/@berner420/video/7466882307228568875",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/okP2kpfURCuI2ALjdHVQmgpDHPIgARecEMsGIe?lk3s=b59d6b55&x-expires=1738692000&x-signature=dwydPtTbdlDxLVjzaGQuuI23UxY%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#fyp",
+            "#andthatsfacts",
+            "#bernerbull",
+            "#memecoin",
+            "#crypto",
+            "#xrpcommunity",
+            "#xrp"
+          ],
+          "author": "berner420",
+          "views": "6",
+          "extracted_time": "2025-02-02T18:28:36.482Z",
+          "comments": {
+            "count": 3,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "3h ago",
+          "posted_timestamp": 1738510117.162,
+          "video_url": "https://www.tiktok.com/@gemcryptohunterofficial/video/7466841978202787094",
+          "thumbnail_url": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b8a314052ad59ba42c1af73911a2e024~c5_100x100.jpeg?lk3s=a5d48078&nonce=145&refresh_token=69b4b0e6055b5819b21d9310bf461b66&x-expires=1738692000&x-signature=XRYOnN9tNxIaAaYcng3lGyKNqN0%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#CryptoChallenge",
+            "#EvilPepe",
+            "#MemeCoin",
+            "#Crypto",
+            "#Moonshot",
+            "#memecoins",
+            "#crypt"
+          ],
+          "author": "gemcryptohunterofficial",
+          "views": "3",
+          "extracted_time": "2025-02-02T18:28:37.176Z",
+          "comments": {
+            "count": 0,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "9h ago",
+          "posted_timestamp": 1738488517.899,
+          "video_url": "https://www.tiktok.com/@edward_farinaqfs/video/7466746392552295712",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2e312b6010502b019ec6bad05d88b465~c5_100x100.jpeg?lk3s=a5d48078&nonce=64197&refresh_token=5cf058d266aa11f0cb74349023c81ded&x-expires=1738692000&x-signature=bEOZZ01F3CY0JRmMr5LNb0MRCHA%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#trumpmemecoin",
+            "#trump",
+            "#memecoin",
+            "#solana",
+            "#crypto",
+            "#xrp"
+          ],
+          "author": "edward_farinaqfs",
+          "views": "6",
+          "extracted_time": "2025-02-02T18:28:37.918Z",
+          "comments": {
+            "count": 8,
+            "mentions": {
+              "ROT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738503268
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "6h ago",
+          "posted_timestamp": 1738499318.504,
+          "video_url": "https://www.tiktok.com/@phoenixcoin_xrp/video/7466792827880541462",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/19e6ecdd5aa9ff2890c1213d921aa2a5~c5_100x100.jpeg?lk3s=a5d48078&nonce=87820&refresh_token=c3ce5a02019dd45c668e961d6b1f22af&x-expires=1738692000&x-signature=9MuFhM8A1TJRayE4nTt%2BrxnArp4%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#solana",
+            "#pumpfun",
+            "#xrp",
+            "#fyp",
+            "#crypto",
+            "#ripple",
+            "#cryptocurrency",
+            "#ledger",
+            "#memecoin",
+            "#trendingvideo",
+            "#meme"
+          ],
+          "author": "phoenixcoin_xrp",
+          "views": "323",
+          "extracted_time": "2025-02-02T18:28:38.525Z",
+          "comments": {
+            "count": 16,
+            "mentions": {
+              "BTJ": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738503994
+              },
+              "PHNIX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738498314
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "solana",
+      "total_videos": 4,
+      "videos": [
+        {
+          "posted_time": "2d ago",
+          "posted_timestamp": 1738348130.155,
+          "video_url": "https://www.tiktok.com/@jeevanzhiyisong/video/7465963427102461191",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/o0qAzmQA2joBxF5KDI4Ik3fbCSAicbizwIVIqD?lk3s=b59d6b55&x-expires=1738692000&x-signature=ib6OsBkq3lssjftr8ZcGbS%2F01PQ%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#Solana",
+            "#SOL",
+            "#bitcoin",
+            "#ETH",
+            "#investment",
+            "#memecoin",
+            "#blockchain",
+            "#money",
+            "#trump"
+          ],
+          "author": "jeevanzhiyisong",
+          "views": "523",
+          "extracted_time": "2025-02-02T18:28:50.176Z",
+          "comments": {
+            "count": 57,
+            "mentions": {
+              "TECH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738316836
+              },
+              "ARB": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738506554
+              },
+              "ONE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738506554
+              },
+              "QWEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738351942
+              },
+              "EQ9n3VXuZu5xJsVvbZQvLRcsdjhQcaPwvziwE76RFMNh": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738351942
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1h ago",
+          "posted_timestamp": 1738517335.257,
+          "video_url": "https://www.tiktok.com/@crypto.eco/video/7466864737482050838",
+          "thumbnail_url": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/okeZ2mfJ0PBPgAIaQzQLRIYGDEasPgjfM7IADL?lk3s=b59d6b55&x-expires=1738692000&x-signature=ZNAdxsPAN%2FmTUBJmqsbxFFwoETI%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#solana",
+            "#crypto"
+          ],
+          "author": "crypto.eco",
+          "views": "9",
+          "extracted_time": "2025-02-02T18:28:55.274Z",
+          "comments": {
+            "count": 2,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "45m ago",
+          "posted_timestamp": 1738518235.847,
+          "video_url": "https://www.tiktok.com/@ronnieriches/video/7466878706024189214",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owQIfLPo1ChmIFG0gen0eqFAIzrAsPW92UcAjs~tplv-dmt-logom:tos-useast8-i-0068-tx2/ocZZIkCnEAAQ0ERIAErsfA6AfNCDnFw76VXrFE.image?lk3s=b59d6b55&x-expires=1738692000&x-signature=udvoWc%2B7jxwHLjxpxquqhbqxCdM%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#crypto",
+            "#bitcoin",
+            "#xrp",
+            "#ethereum",
+            "#solana",
+            "#cryptok",
+            "#finance",
+            "#financetips",
+            "#wealth",
+            "#wealthbuilding",
+            "#bullrun",
+            "#financialfreedom",
+            "#cryptonews",
+            "#cryptotrading",
+            "#millionairemindset",
+            "#cryptonews",
+            "#greenscreen"
+          ],
+          "author": "ronnieriches",
+          "views": "57",
+          "extracted_time": "2025-02-02T18:28:55.868Z",
+          "comments": {
+            "count": 17,
+            "mentions": {
+              "RONNIE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518877
+              },
+              "RICH": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518877
+              },
+              "BULLRUN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738520161
+              },
+              "CMONNNN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738520161
+              },
+              "BOT": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738519127
+              },
+              "DEBT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519127
+              },
+              "hood": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518717
+              },
+              "HOOD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519231
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1h ago",
+          "posted_timestamp": 1738517336.498,
+          "video_url": "https://www.tiktok.com/@k1ngofsolana/video/7466869312234491158",
+          "thumbnail_url": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oUIfQBF4RpcnAgDnpFcGfqigUX5E2ENgkU6hB1?lk3s=b59d6b55&x-expires=1738692000&x-signature=CcmYkJzT0Xg6vb8TYCabpJ3vT%2FU%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#memecoins",
+            "#solana",
+            "#crypto",
+            "#cryptocurrency"
+          ],
+          "author": "k1ngofsolana",
+          "views": "4",
+          "extracted_time": "2025-02-02T18:28:56.514Z",
+          "comments": {
+            "count": 2,
+            "mentions": {}
+          }
+        }
+      ]
+    },
+    {
+      "search": "crypto",
+      "total_videos": 10,
+      "videos": [
+        {
+          "posted_time": "1h ago",
+          "posted_timestamp": 1738517348.057,
+          "video_url": "https://www.tiktok.com/@coin_guide/video/7466874647129247006",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oofRIEmZCj780M7fKuBmQNyqADFxEnA6n9DV2E?lk3s=b59d6b55&x-expires=1738692000&x-signature=qM%2B%2FtvWauJQoaBFw9dYVtkq6UZk%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#bitcoin",
+            "#crypto",
+            "#finance"
+          ],
+          "author": "coin_guide",
+          "views": "226",
+          "extracted_time": "2025-02-02T18:29:08.070Z",
+          "comments": {
+            "count": 17,
+            "mentions": {
+              "ALTS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738517764
+              },
+              "US": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738517710
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "51m ago",
+          "posted_timestamp": 1738517891.791,
+          "video_url": "https://www.tiktok.com/@coin_guide/video/7466877043318213919",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oEWR7nEMuW2CWfVUE7tTrIAIDfAEFEDrZBnn6Q?lk3s=b59d6b55&x-expires=1738692000&x-signature=oj%2F64Wsb4QLLfWC2fr4fONjAz6U%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#crypto",
+            "#altcoin",
+            "#bitcoin",
+            "#finance",
+            "#investment"
+          ],
+          "author": "coin_guide",
+          "views": "613",
+          "extracted_time": "2025-02-02T18:29:11.806Z",
+          "comments": {
+            "count": 39,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "19m ago",
+          "posted_timestamp": 1738519813.45,
+          "video_url": "https://www.tiktok.com/@gabestronaut/video/7466885495889366302",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oQYJEDfDVIwZRQnETtWGEnX7fCPAiETAFAA2QA?lk3s=b59d6b55&x-expires=1738692000&x-signature=tpQbE1OVC%2BVgON1TEu%2Bdxuo5gXI%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#xrp",
+            "#crypto",
+            "#investing",
+            "#finance",
+            "#wealth"
+          ],
+          "author": "gabestronaut",
+          "views": "19",
+          "extracted_time": "2025-02-02T18:29:13.468Z",
+          "comments": {
+            "count": 6,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "25m ago",
+          "posted_timestamp": 1738519456.671,
+          "video_url": "https://www.tiktok.com/@cryptocommentary/video/7466883922383752494",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ocRkxDuHA1DQ7D3n67SFEGpnIB2fvF2fygDsEa?lk3s=b59d6b55&x-expires=1738692000&x-signature=NIhXi5I9gp47GhDiuRMupKJJwMU%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#greenscreen",
+            "#crypto",
+            "#bitcoin"
+          ],
+          "author": "cryptocommentary",
+          "views": "52",
+          "extracted_time": "2025-02-02T18:29:16.685Z",
+          "comments": {
+            "count": 5,
+            "mentions": {
+              "DAMN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519739
+              },
+              "DEAD": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519576
+              },
+              "THANKS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519851
+              },
+              "TRUMP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738519851
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2h ago",
+          "posted_timestamp": 1738513757.424,
+          "video_url": "https://www.tiktok.com/@endthestruggletogether/video/7466859656623820065",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/ogPAeIIzViGAjogyqIAlLZfGeMeAEPQInPItYj~tplv-dmt-logom:tos-useast2a-i-0068-euttp/ooQjqePAzJpNWr6fGGIe6PLEdAAIEgenInIADV.image?lk3s=b59d6b55&x-expires=1738692000&x-signature=9CSA8yL3cVkYqTYAbq49wo5R%2BE8%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#endthestruggletogether",
+            "#bullrun",
+            "#crypto"
+          ],
+          "author": "endthestruggletogether",
+          "views": "34",
+          "extracted_time": "2025-02-02T18:29:17.438Z",
+          "comments": {
+            "count": 14,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "1h ago",
+          "posted_timestamp": 1738517358.22,
+          "video_url": "https://www.tiktok.com/@tjrtrades/video/7466868517690707246",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/54d1e5c9f7cdf1b52fb95ade7fa9aee8~c5_100x100.jpeg?lk3s=a5d48078&nonce=72045&refresh_token=ab1a46541e74c0e3ad424e749098f5dc&x-expires=1738692000&x-signature=rq9sCkpusEMCp1IjK01boxbo3O8%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#forextrading",
+            "#tjrtrades",
+            "#cryptotrading",
+            "#optionstrading",
+            "#daytrading"
+          ],
+          "author": "tjrtrades",
+          "views": "1649",
+          "extracted_time": "2025-02-02T18:29:18.233Z",
+          "comments": {
+            "count": 19,
+            "mentions": {
+              "REAL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738516335
+              },
+              "VRSUS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518230
+              },
+              "TJR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738520729
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "3h ago",
+          "posted_timestamp": 1738510161.42,
+          "video_url": "https://www.tiktok.com/@qfshelpcenter57/video/7466839814348819720",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/okQbrAefoPQBUij8ItAmIsLIq0imOPfzG3DxCT?lk3s=b59d6b55&x-expires=1738692000&x-signature=1%2FRiWqXue0tzSkhc%2BCacUIV8kAE%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#crypto",
+            "#xrppriceprediction",
+            "#XRP",
+            "#rp",
+            "#rparmy",
+            "#rpupdate",
+            "#xpcryptos",
+            "#rpnews",
+            "#cryptonews",
+            "#cryptonewsdaily",
+            "#xrpnewstoday",
+            "#cryptobullrun",
+            "#rptoday",
+            "#xrpnews",
+            "#rpupdate",
+            "#xrp",
+            "#ripple",
+            "#cryptotoday",
+            "#xrparmy",
+            "#xrpfamily",
+            "#typpp",
+            "#viral_video"
+          ],
+          "author": "qfshelpcenter57",
+          "views": "5",
+          "extracted_time": "2025-02-02T18:29:21.432Z",
+          "comments": {
+            "count": 3,
+            "mentions": {}
+          }
+        },
+        {
+          "posted_time": "22h ago",
+          "posted_timestamp": 1738441762.007,
+          "video_url": "https://www.tiktok.com/@emanueltrades/video/7466536171502390574",
+          "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/owC5AdTPKLEE3IODIPIGu0eEQDD0A5jeHkenqj?lk3s=b59d6b55&x-expires=1738692000&x-signature=iBOkUsKKnie7ViO%2FN%2FiihyjlqtI%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#daytrading",
+            "#cryptotrading",
+            "#crypto",
+            "#btc"
+          ],
+          "author": "emanueltrades",
+          "views": "345",
+          "extracted_time": "2025-02-02T18:29:22.018Z",
+          "comments": {
+            "count": 43,
+            "mentions": {
+              "CALI": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738440031
+              },
+              "HODL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738503082
+              },
+              "ROT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738503082
+              },
+              "AM": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738450559
+              },
+              "GRATEFUL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738450559
+              },
+              "MADE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738440751
+              },
+              "MC": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738440751
+              },
+              "OMNI": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738441430
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "1d ago",
+          "posted_timestamp": 1738434563.979,
+          "video_url": "https://www.tiktok.com/@dajulrey/video/7466367450993560839",
+          "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3c14c29bc478e0d5c61ceedc238c89af.jpeg?lk3s=a5d48078&nonce=44916&refresh_token=f694905197692f7e3a40b90a68beb98a&x-expires=1738692000&x-signature=HQug2pGsRGZouosdwoQ2F3mNdHY%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto"
+          ],
+          "author": "dajulrey",
+          "views": "561",
+          "extracted_time": "2025-02-02T18:29:23.991Z",
+          "comments": {
+            "count": 112,
+            "mentions": {
+              "VTT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738403043
+              },
+              "CLV": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738428310
+              },
+              "ICP": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738500071
+              },
+              "IC3": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738459320
+              },
+              "TRC20": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738451101
+              },
+              "EVERYONE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "KEEPS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "TALKING": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "SUCCESS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "UNTIL": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "GAVE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "IT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "TRY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "OUTCOME": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "WAS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738518580
+              },
+              "FEBRUARY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738468788
+              },
+              "MARKETS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738468788
+              },
+              "DOWN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738468788
+              },
+              "FUTURE": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1738458287
+              },
+              "FINANCE": {
+                "count": 5,
+                "isTicker": true,
+                "timestamp": 1738458287
+              },
+              "BOT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738400132
+              },
+              "6XNMCFAJtwYgo7pNErFpX5Y9aimjbcza2eV9qfEFpump": {
+                "count": 1,
+                "isTicker": false,
+                "timestamp": 1738420043
+              },
+              "ROT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1738415653
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "9h ago",
+          "posted_timestamp": 1738488568.619,
+          "video_url": "https://www.tiktok.com/@davionixnexus/video/7466749637869800737",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/6954ca5ab9fcb0998987f5f28726e533~c5_100x100.jpeg?lk3s=a5d48078&nonce=90663&refresh_token=d57009fb870458f3b6e2957521613411&x-expires=1738692000&x-signature=K9aI9xBWHVjyQJ1mHCE8KqGcTFM%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#CryptoNews",
+            "#Bitcoin",
+            "#Ethereum",
+            "#blockchain",
+            "#DavionixNexus",
+            "#blockchain"
+          ],
+          "author": "davionixnexus",
+          "views": "4",
+          "extracted_time": "2025-02-02T18:29:28.633Z",
+          "comments": {
+            "count": 3,
+            "mentions": {}
+          }
+        }
+      ]
+    },
+    {
+      "search": "trading",
+      "total_videos": 1,
+      "videos": [
+        {
+          "posted_time": "2024-1-11",
+          "posted_timestamp": 1738520991.054,
+          "video_url": "https://www.tiktok.com/@realtradingpool/video/7322701719350136097",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/oAP3nmsRPI81EdmDEl3QZZD3FKfCABnnUQbfmS?lk3s=b59d6b55&x-expires=1738692000&x-signature=YzSflDGj5AZVfYh6MX9%2Fv90Wx5U%3D&shp=b59d6b55&shcp=-",
+          "hashtags": [
+            "#fyp",
+            "#motivation",
+            "#entrepreneur",
+            "#success",
+            "#daytrading",
+            "#tradingpool"
+          ],
+          "author": "realtradingpool",
+          "views": "",
+          "extracted_time": "2025-02-02T18:29:51.070Z",
+          "comments": {
+            "count": 67,
+            "mentions": {
+              "ASIC": {
+                "count": 3,
+                "isTicker": true,
+                "timestamp": 1705004568
+              },
+              "TPR": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1704956887
+              },
+              "YES": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1705021742
+              },
+              "QUEEN": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1705021742
+              },
+              "GET": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1705021742
+              },
+              "THAT": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1705021742
+              },
+              "FLAMZDE": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1724884150
+              },
+              "FX": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1724884150
+              },
+              "SIGNALS": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1724884150
+              },
+              "RECOVERY": {
+                "count": 1,
+                "isTicker": true,
+                "timestamp": 1721347314
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "search": "crypto%20signals",
+      "total_videos": 2,
+      "videos": [
+        {
+          "posted_time": "4h ago",
+          "posted_timestamp": 1738506629.816,
+          "video_url": "https://www.tiktok.com/@gainzalgo.strategy/video/7466822719695277334",
+          "thumbnail_url": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/78015ed4e041c8f53a7b20e61a65071e~c5_100x100.jpeg?lk3s=a5d48078&nonce=43838&refresh_token=06e11c55fa7b4e09aedb2da9ffa11131&x-expires=1738692000&x-signature=oZ4VGDFveeKQeofC6BsfTQOSN%2BI%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#crypto",
+            "#stocks",
+            "#forex",
+            "#tradingview"
+          ],
+          "author": "gainzalgo.strategy",
+          "views": "21",
+          "extracted_time": "2025-02-02T18:30:29.825Z",
+          "comments": {
+            "count": 2,
+            "mentions": {
+              "V2": {
+                "count": 2,
+                "isTicker": true,
+                "timestamp": 1738505258
+              }
+            }
+          }
+        },
+        {
+          "posted_time": "2h ago",
+          "posted_timestamp": 1738513833.317,
+          "video_url": "https://www.tiktok.com/@crypto_curse/video/7466849898189573398",
+          "thumbnail_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d59570a4cb764c89e0d78b9f42997be2~c5_100x100.jpeg?lk3s=a5d48078&nonce=87079&refresh_token=f2aed5dd6044bb7ef0a1eb4b9c7e0ca5&x-expires=1738692000&x-signature=u5cQOU9nNlqWrO2Z4dfzWDUJfyE%3D&shp=a5d48078&shcp=b59d6b55",
+          "hashtags": [
+            "#viraltiktok",
+            "#viral",
+            "#fyp",
+            "#viraltiktok",
+            "#viral",
+            "#viraltiktok",
+            "#viraltiktok",
+            "#viraltiktok",
+            "#foryourpage",
+            "#fyp",
+            "#viraltiktok",
+            "#foryourpage",
+            "#viraltiktok",
+            "#Crypto",
+            "#Blockchain",
+            "#Web3",
+            "#trending",
+            "#trending",
+            "#signal",
+            "#profits",
+            "#trending",
+            "#foryourpage",
+            "#viraltiktok",
+            "#viraltiktok",
+            "#signal",
+            "#viraltiktok",
+            "#foryourpage",
+            "#fyp"
+          ],
+          "author": "crypto_curse",
+          "views": "201",
+          "extracted_time": "2025-02-02T18:30:33.347Z",
+          "comments": {
+            "count": 2,
+            "mentions": {}
+          }
+        }
+      ]
+    }
+  ]
+}
